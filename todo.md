@@ -1,0 +1,27 @@
+- [ ] User wieder Access geben, wenn Tickets erneut geöffnet werden **BugFix**
+ - [ ] Verify-System für alle, die in Klassenräumen reden wollen **Verbesserung**
+ - [ ] Muted Rolle soll nicht mehr in Unterrichtsstunden und im Vostellungs-Channel schreiben können **BugFix**
+ - [ ] Teammitglieder sollen nicht mehr aus privaten Channeln gekickt werden können **BugFix**
+ - [x]  Zugriff in Privaten Voice-Channeln auch mit ID möglich machen
+ - [ ] Command um reason für Mutes, Warns und Bans nachzutragen **Bug/Verbessung**
+ - [ ] Ticket-Nummer in Ticket-Logs hinzufügen **Verbesserung/B&uuml;rokratie**
+ - [ ] Bei Welt-Nachrichten nur alle 5 Nachrichten pingen **Verbesserung**
+ - [ ] Serverübergreifendes Unban/Unmutesytem für den Beschwerdediscord. **Verbesserung**
+ - [ ] Warns unter ?modlogs anzeigen **BugFix**
+ - [ ] Study-Music fixen **BugFix**
+ - [ ] Nachhilfe Stats fixen **BugFix**
+ - [ ]  :zahnrad: in Unterrichtsverwaltung fixen **BugFix**
+ - [ ] Überwachung durch Bots in Threads **Verbesserung**
+ - [ ] Lehrer sollen während der Stunde Streamrechte vergeben können **Verbesserung**
+ - [ ] Streamen für Schüler:innen in privaten Channeln fixen **BugFix**
+ - [ ] Automatische Nachricht in Tickets wenn User den Server verlässt **Verbesserung**
+ - [ ]  "Mod-Alert"-Button für Lehrer in Nachhilfestunden hinzufügen **Verbesserung**
+ - [ ] Doppelte Bestätigung wenn User Tickets schließen, weil die vielleicht manchmal nur ausprobieren wollen ob die des können **Verbesserung**
+ - [ ] Discord invites in Tickets erlauben **Verbesserung**
+ - [ ] Gleichzeitig ein FSR-Ticket und ein Mod-Ticket gleichzeitig eröffnen können **BugFix**
+ - [ ] Updated Userinfo mit Modlogs und so drin **BugFix**
+ - [ ] ?banreduce - Command (Verkürzen von Bans ohne extra erst Entbannen zu müssen) **Verbesserung**
+ - [ ] "Schüler:in", "Fächer", "AG's", "Level Rollen", "Ping Rollen", "Sonstige Rollen" outrolen an alle member (auch unverifizierte) **Verbesserung**
+ - [ ]  Name von Privaten Channeln richtig machen (-> Quikz's zu Quikzs, Elias's zu Elias') und "channel" groß schreiben **BugFix**
+ - [ ]  Message mit meisten Sternen im Starboard automatisch anpinnen **Verbesserung**
+ - [ ]  Neulinge-Rolle für eine Woche **Verbesserung**
